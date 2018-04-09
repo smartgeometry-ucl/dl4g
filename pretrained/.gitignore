@@ -1,4 +1,5 @@
 # Ignore everything in this directory
 *
-# Except this file
+# Except these files
 !.gitignore
+!download_pretrained.ipynb
