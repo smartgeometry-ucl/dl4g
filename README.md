@@ -1,4 +1,4 @@
-# Deep Learning for Graphics Tutorial Code
+# CreativeAI: Deep Learning for Graphics Tutorial Code
 
 This is the example code accompanying the [CreativeAI: Deep Learning for Graphics](http://geometry.cs.ucl.ac.uk/creativeai/) Course at Siggraph Asia 2018.
 
