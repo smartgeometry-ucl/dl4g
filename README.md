@@ -42,7 +42,7 @@ https://colab.research.google.com/github/smartgeometry-ucl/dl4g/blob/master/gan.
 ## Mirroring with a Convolutional Network
 https://colab.research.google.com/github/smartgeometry-ucl/dl4g/blob/master/mirroring.ipynb
 
-
-
+## PDE Learning (not available as notebook)
+https://github.com/smartgeometry-ucl/dl4g/tree/master/pde_learning
 
 
